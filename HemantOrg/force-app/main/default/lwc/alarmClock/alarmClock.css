@@ -1,0 +1,45 @@
+.alarm-card {
+    max-width: 440px;
+    width: 100%;
+    padding: 30px; 
+    background: #243356;
+    color: #ffffff;
+    border-radius: 16px;
+    margin: 24px auto;
+}
+h1{
+    font-weight: 700;
+    color: yellow;
+    font-size: 36px;
+    text-align: center;
+}
+h2{
+    color: violet;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    margin: 30px auto;
+}
+button{
+    font-size: 20px;
+    padding: 14px;
+    background: #f45f09;
+    color: #180403e2;
+    font-weight: 500;
+    border-color: #6c06ab;
+    margin-top: 12px ;
+}
+img{
+    margin: 20px auto;
+    display: block;
+}
+label{
+    color: aquamarine;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: inherit;
+    font-variant: common-ligatures;
+    margin: 3px auto;
+    text-align: center;
+    padding: 2px;
+}
